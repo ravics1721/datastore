@@ -1,3 +1,0 @@
-
-help:
-	echo "Help command"
